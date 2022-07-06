@@ -1,0 +1,9 @@
+.RegistrationImg {
+  height: 300px;
+}
+
+@media (max-width: 500px) {
+  .RegistrationImg {
+    height: 150px;
+  }
+}

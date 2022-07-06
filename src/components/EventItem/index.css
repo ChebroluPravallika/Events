@@ -1,0 +1,23 @@
+.image {
+  height: 100px;
+}
+.name {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.location {
+  font-size: 15px;
+}
+@media (max-width: 500px) {
+  .image {
+    height: 60px;
+  }
+  .name {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .location {
+    font-size: 12px;
+  }
+}
